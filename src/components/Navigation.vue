@@ -89,7 +89,8 @@
     }
     .masterNav{
         border-bottom: 2px solid #000;
-        padding: 5px;
+        padding: 7px;
+        margin: 5px 0;
         width: 100px;
 
     }
@@ -99,6 +100,8 @@
             overflow: auto;
         }
         div{
+            padding: 0px 2px;
+
             height: 50px;
             margin: 3px 10px;
             cursor: pointer;

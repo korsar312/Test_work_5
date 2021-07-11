@@ -77,7 +77,7 @@
   @media all and (max-width: 480px) {
     .pages {
       margin-left: 0px;
-      margin-bottom: 50px;
+      margin-bottom: 70px;
       width: calc(100vw);
     }
   }
